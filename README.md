@@ -56,7 +56,6 @@ Low Level Block Diagram:
 
 Sample Output:
 
-il;p[
 ![image](https://github.com/user-attachments/assets/f9cd699f-befb-4bb8-a288-9c616ee6f685)
 
 
