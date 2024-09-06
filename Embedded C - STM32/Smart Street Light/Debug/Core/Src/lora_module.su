@@ -1,0 +1,4 @@
+../Core/Src/lora_module.c:31:6:TransmitCommand	24	static
+../Core/Src/lora_module.c:36:6:ReceiveResponse	8	static
+../Core/Src/lora_module.c:40:6:lora_config	8	static
+../Core/Src/lora_module.c:58:6:HAL_UART_RxCpltCallback	424	static
