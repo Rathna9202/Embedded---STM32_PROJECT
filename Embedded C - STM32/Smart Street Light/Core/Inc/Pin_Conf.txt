@@ -1,27 +1,27 @@
 
 STM32-F446RE	4ch Relay	I2C[LCD]	LoRa Module[Receive]	LoRa Module[Transmitter]
 
-PB0				IN1				
-PB1				IN2
-PB2				IN3
-PB3				IN4
+PB0		IN1				
+PB1		IN2
+PB2		IN3
+PB3		IN4
+5V		VCC
+GND		GND
+
+
+				I2C - 1
+PB9[SDA]			SDA
+PB8[SCL]			SCL
 5V				VCC
 GND				GND
 
-
-							I2C - 1
-PB9[SDA]					SDA
-PB8[SCL]					SCL
-5V							VCC
-GND							GND
-
-PA10[Rx-Uart-1]								Rx
-PA9[Tx-Uart-1]								Tx
-3V											VCC
-GND											GND
+PA10[Rx-Uart-1]					Rx
+PA9[Tx-Uart-1]					Tx
+3V						VCC
+GND						GND
 
 TTY-USB										
-Tx																	Tx
-Rx																	Rx
-3V																	3V
-GND																	GND
+Tx										Tx
+Rx										Rx
+3V										3V
+GND										GND
