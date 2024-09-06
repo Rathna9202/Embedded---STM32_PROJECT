@@ -1,3 +1,5 @@
+Block Diagram:
+
 ![image](https://github.com/user-attachments/assets/006f8f09-e52c-4168-bb0f-ff18eaa9c530)
 
 Project Summary:
@@ -43,3 +45,18 @@ Communication
 Data Rate : LoRa modulation up to 300 kbps.
 Power Requirements
 Operating Voltage : 1.8V to 3.6V
+
+Connection Diagram:
+
+![image](https://github.com/user-attachments/assets/8d31a53f-5b2f-4002-90a7-4a6c5a227772)
+
+Low Level Block Diagram:
+
+![image](https://github.com/user-attachments/assets/f4f3daf5-95d6-409b-8d67-ad7ccd2cb021)
+
+Sample Output:
+
+il;p[
+![image](https://github.com/user-attachments/assets/f9cd699f-befb-4bb8-a288-9c616ee6f685)
+
+
